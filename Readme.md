@@ -1,10 +1,10 @@
 # HOP(e)
 Versjon: 1.4
 Krever: Python og pygame biblioteket
-Forfatter: Emil Lunde-bakke
+Forfatter: Emil Lunde-bakke, 2020
 
 ## Beskrivelse
-Hop(e) er et spill hvor det gjelder å komme seg så høyt som mulig. Vanskelighetsgraden øker ettersom plattformene blir smalere og vanskeligere ha å med å gjøre.
+Hop(e) er et spill hvor det gjelder å komme seg så høyt som mulig. Vanskelighetsgraden øker ettersom plattformene blir smalere og vanskeligere å ha med og gjøre ;)
 
 
 ## Instruksjoner: 
