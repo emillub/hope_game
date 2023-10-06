@@ -7,7 +7,7 @@ Forfatter: Emil Lunde-bakke, 2020
 Hop(e) er et spill hvor det gjelder å komme seg så høyt som mulig. Vanskelighetsgraden øker ettersom plattformene blir smalere og vanskeligere å ha med og gjøre ;)
 
 
-## Instruksjoner: 
+## Instruksjoner 
 Space for å starte\
 Piltaster for å styre spilleren
 
